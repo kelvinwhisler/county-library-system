@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627479256 source:c:\users\admin\kimanthi\library-management-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1627989778 source:c:\users\nyambuu\downloads\county-library-system-main (1) (1)\county-library-system-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
